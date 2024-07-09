@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/anche/Downloads/Practica 6a Despliegue de servidor web apache con Vagrant/html/web2","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/anche/Downloads/Practica 6a Despliegue de servidor web apache con Vagrant","disabled":false,"__vagrantfile":true}}}
